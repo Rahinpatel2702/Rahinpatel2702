@@ -8,5 +8,3 @@ intuitive and visually appealing user interfaces using various techniques such a
 Typescript, JavaScript, and React. Proficient in Git and GitHub for source code management. Excellent
 analytical, troubleshooting, and problem-solving abilities to set effective priorities and implement decisions to
 meet operational deadlines
-
-💎 Skills
